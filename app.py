@@ -31,6 +31,7 @@ class denseLayer:
         self.output = self.activation.activate(self.z)
 
 ## The code is yet to be completed
+## New classes and functions to be added
 
 layer1 = denseLayer(784, 16, af="relu")
 layer1.forwardPass(X_train)
