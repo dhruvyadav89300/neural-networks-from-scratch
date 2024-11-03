@@ -9,4 +9,4 @@ In this notebook, I implemented a neural network from scratch using only NumPy. 
 ## Usage
 It is pretty straight-forward, just follow along the notebook. 
 ## Acknowledgements
-This project was inspired by the insightful videos from [GreenCode](https://www.youtube.com/watch?v=cAkMcPfY_Ns&t=38s) and [Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3). Their tutorials greatly aided me in understanding the fundamentals of neural network implementation.
+This project was inspired by the insightful videos from [GreenCode](https://www.youtube.com/watch?v=cAkMcPfY_Ns) and [Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3). Their tutorials greatly aided me in understanding the fundamentals of neural network implementation.
